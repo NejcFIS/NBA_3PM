@@ -47,11 +47,6 @@ mvn clean install
 
 After running the test, you should see the average points for the last 5 games for each player and the player's name logged in the console.
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 
