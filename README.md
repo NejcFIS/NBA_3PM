@@ -29,7 +29,7 @@ To run this project, you will need:
 . Open your favorite Java IDE and import the project.
 1. Clone the repository:
 
-git clone https://github.com/yourusername/NBAPlayerAveragesScraper.git
+git clone https://github.com/NejcFIS/NBA_3PM
 
 2. Navigate to the project directory:
 
