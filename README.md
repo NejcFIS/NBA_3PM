@@ -33,7 +33,7 @@ git clone https://github.com/NejcFIS/NBA_3PM
 
 2. Navigate to the project directory:
 
-cd NBAPlayerAveragesScraper
+cd NBA.java
 
 3. Install the required dependencies with Maven:
 
